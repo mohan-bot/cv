@@ -1,0 +1,21 @@
+
+body{
+	background-color:#AAB7B8;
+	font-family:'Open Sans', sans-serif;
+	width: 80%;
+	margin: auto;
+}
+.intro{
+	text-align: center;
+	margin: auto;
+}
+.image{
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+	display: block;
+}
+
+h3{
+	text-decoration: underline;
+}
