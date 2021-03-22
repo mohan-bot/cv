@@ -44,15 +44,12 @@ h3{
 
 .contacts a{
 	display: block;
-	padding-left: 20%;
+	
 	color: #28527a;
 	text-decoration: none;
 }
 a:hover{
 	color:red;
 
-}
-.contacts img{
-	padding-left: 35%;
 }
 
